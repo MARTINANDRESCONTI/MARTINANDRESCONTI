@@ -14,22 +14,28 @@
 ![HTML](https://img.shields.io/badge/HTML%20-%20%23E44D26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF) 
 ![CSS](https://img.shields.io/badge/CSS%20-%20%23006BC0?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%236C0CF2?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)\
+\
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%20%23F2CE1B?style=for-the-badge&logo=JavaScript&logoColor=000000&color=%23F2CE1B)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)\
+\
 ![React](https://img.shields.io/badge/React%20-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
 ![React Native](https://img.shields.io/badge/React%20Native-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)\
+\
 ![Node.js](https://img.shields.io/badge/Node.js%20-%20%238DD984?style=for-the-badge&logo=Node.js&logoColor=000000&color=%238DD984)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white)\
+\
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase%20-%20%23079DD9?style=for-the-badge&logo=Firebase)\
+\
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)\
+\
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
  
