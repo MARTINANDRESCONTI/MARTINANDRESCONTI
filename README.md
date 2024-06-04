@@ -15,10 +15,10 @@
 ![CSS](https://img.shields.io/badge/CSS%20-%20%23006BC0?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%236C0CF2?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)\
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%20%23F2CE1B?style=for-the-badge&logo=JavaScript&logoColor=000000&color=%23F2CE1B)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)\ 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)\
 ![React](https://img.shields.io/badge/React%20-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
 ![React Native](https://img.shields.io/badge/React%20Native-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)\ 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)\
 ![Node.js](https://img.shields.io/badge/Node.js%20-%20%238DD984?style=for-the-badge&logo=Node.js&logoColor=000000&color=%238DD984)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
